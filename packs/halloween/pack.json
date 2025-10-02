@@ -1,0 +1,28 @@
+{
+  "id": "halloween",
+  "title": "Halloween",
+  "emoji": "🎃",
+  "visible": true,
+  "stickers": [
+    { "id": "bad_and_boojee",          "title": "Bad And Boojee",           "image": "BadAndBoojee.png" },
+    { "id": "boo_crew",                "title": "Boo Crew",                 "image": "BooCrew.png" },
+    { "id": "boo_thang",               "title": "Boo Thang",                "image": "BooThang.png" },
+    { "id": "broom_hair_dont_care",    "title": "Broom Hair Don’t Care",    "image": "BroomHairDontCare.png" },
+    { "id": "creepin_it_real",         "title": "Creepin It Real",          "image": "CreepinItReal.png" },
+    { "id": "dead_tired",              "title": "Dead Tired",               "image": "DeadTired.png" },
+    { "id": "eat_drink_and_be_scary",  "title": "Eat Drink And Be Scary",   "image": "EatDrinkAndBeScary.png" },
+    { "id": "ghoulfriend_material",    "title": "Ghoulfriend Material",     "image": "GhoulfriendMaterial.png" },
+    { "id": "hocus_pocus_energy",      "title": "Hocus Pocus Energy",       "image": "HocusPocusEnergy.png" },
+    { "id": "just_here_for_the_boos",  "title": "Just Here For The Boos",   "image": "JustHereForTheBoos.png" },
+    { "id": "mummy_issues",            "title": "Mummy Issues",             "image": "MummyIssues.png" },
+    { "id": "nightmare_fuel",          "title": "Nightmare Fuel",           "image": "NightmareFuel.png" },
+    { "id": "resting_witch_face",      "title": "Resting Witch Face",       "image": "RestingWitchFace.png" },
+    { "id": "scary_but_cute",          "title": "Scary But Cute",           "image": "ScaryButCute.png" },
+    { "id": "scream_queen",            "title": "Scream Queen",             "image": "ScreamQueen.png" },
+    { "id": "spooked_and_stressed",    "title": "Spooked And Stressed",     "image": "SpookedAndStressed.png" },
+    { "id": "too_ghoul_for_school",    "title": "Too Ghoul For School",     "image": "TooGhoulForSchool.png" },
+    { "id": "trick_or_treat_yo_self",  "title": "Trick Or Treat Yo Self",   "image": "TrickOrTreatYoSelf.png" },
+    { "id": "witch_better_have_my_candy", "title": "Witch Better Have My Candy", "image": "WitchBetterHaveMyCandy.png" },
+    { "id": "witch_please",            "title": "Witch Please",             "image": "WitchPlease.png" }
+  ]
+}
