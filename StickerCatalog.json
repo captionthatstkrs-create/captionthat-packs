@@ -1,0 +1,170 @@
+{
+  "version": 2,
+  "packs": [
+    {
+      "id": "dating",
+      "title": "Dating",
+      "subtitle": "Flirty, funny, a little messy",
+      "emoji": "💘",
+      "productID": "com.captionthat.CaptionThat.stickers.dating.v2",
+      "visible": true,
+      "position": 10,
+      "freeCount": 5,
+      "stickers": []
+    },
+    {
+      "id": "office",
+      "title": "Office",
+      "subtitle": "Snacks, meetings, drama",
+      "emoji": "💼",
+      "productID": "com.captionthat.CaptionThat.stickers.office.v2",
+      "visible": true,
+      "position": 20,
+      "freeCount": 5,
+      "stickers": []
+    },
+    {
+      "id": "modern",
+      "title": "Gen Z",
+      "subtitle": "Big Internet Energy",
+      "emoji": "⚡️",
+      "productID": "com.captionthat.CaptionThat.stickers.modern.v2",
+      "visible": true,
+      "position": 30,
+      "freeCount": 5,
+      "stickers": []
+    },
+    {
+      "id": "retro",
+      "title": "OG Style",
+      "subtitle": "Classic vibes",
+      "emoji": "💬",
+      "productID": "com.captionthat.CaptionThat.stickers.retro.v2",
+      "visible": true,
+      "position": 40,
+      "freeCount": 5,
+      "stickers": []
+    },
+    {
+      "id": "pets",
+      "title": "Pets",
+      "subtitle": "Fluffy chaos",
+      "emoji": "🐾",
+      "productID": "com.captionthat.CaptionThat.stickers.pets.v2",
+      "visible": true,
+      "position": 50,
+      "freeCount": 5,
+      "stickers": []
+    },
+    {
+      "id": "school",
+      "title": "Back to School",
+      "subtitle": "Backpacks & besties",
+      "emoji": "🎒",
+      "productID": "com.captionthat.CaptionThat.stickers.back2school.v2",
+      "visible": true,
+      "position": 60,
+      "freeCount": 5,
+      "stickers": []
+    },
+    {
+      "id": "blessed",
+      "title": "Blessed Vibes",
+      "subtitle": "Praise, pray, slay",
+      "emoji": "🙏",
+      "productID": "com.captionthat.CaptionThat.stickers.blessed.v2",
+      "visible": true,
+      "position": 70,
+      "freeCount": 5,
+      "stickers": []
+    },
+    {
+      "id": "hotgirl",
+      "title": "Hot Girl Chatter",
+      "subtitle": "Bestie goals unlocked",
+      "emoji": "💅",
+      "productID": "com.captionthat.CaptionThat.stickers.hotgirlchatter.v2",
+      "visible": true,
+      "position": 80,
+      "freeCount": 5,
+      "stickers": []
+    },
+    {
+      "id": "bros",
+      "title": "Bros",
+      "subtitle": "Dudes, memes, mayhem",
+      "emoji": "🧢",
+      "productID": "com.captionthat.CaptionThat.stickers.bros.v2",
+      "visible": true,
+      "position": 90,
+      "freeCount": 5,
+      "stickers": []
+    },
+
+    {
+      "id": "fall",
+      "title": "Fall Vibes",
+      "subtitle": "Cozy, crisp, and caffeinated",
+      "emoji": "🍂",
+      "productID": "com.captionthat.CaptionThat.stickers.fall.v2",
+      "visible": true,
+      "position": 5,
+      "freeCount": 5,
+      "stickers": [
+        "AnotherDayAnotherPSL",
+        "BonfireBesties",
+        "BoozeAndBonfires",
+        "CiderMadeMeDoIt",
+        "CozyButClueless",
+
+        "CrispAirDontCare",
+        "CuddleSeasonActivated",
+        "FallingLeavesRisingDrama",
+        "FlannelIsMyUniform",
+        "FlannelsAndFeelings",
+        "GourdOutOfMyMind",
+        "HarvestHomies",
+        "LeafMeAlone",
+        "PSLAddict",
+        "PumpkinPatchPosse",
+        "PumpkinSpiceStateOfMind",
+        "RakeItTilYouMakeIt",
+        "ShotsAndSweaters",
+        "SweaterWeatherForever",
+        "TipsyAndToasty"
+      ]
+    },
+    {
+      "id": "halloween",
+      "title": "Halloween",
+      "subtitle": "Spooky, silly, and a little scary",
+      "emoji": "🎃",
+      "productID": "com.captionthat.CaptionThat.stickers.halloween.v1",
+      "visible": true,
+      "position": 0,
+      "freeCount": 5,
+      "stickers": [
+        "BadAndBoojee",
+        "BooCrew",
+        "BooThang",
+        "BroomHairDontCare",
+        "CreepinItReal",
+        "DeadTired",
+        "EatDrinkAndBeScary",
+        "GhoulfriendMaterial",
+        "HocusPocusEnergy",
+        "JustHereForTheBoos",
+        "MummyIssues",
+        "NightmareFuel",
+        "RestingWitchFace",
+        "ScaryButCute",
+        "ScreamQueen",
+        "SpookedAndStressed",
+        "TooGhoulForSchool",
+        "TrickOrTreatYoSelf",
+        "WitchBetterHaveMyCandy",
+        "WitchPlease"
+      ]
+    }
+  ]
+}
