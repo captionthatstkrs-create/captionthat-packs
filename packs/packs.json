@@ -296,6 +296,39 @@
         "droppedtheclasskeptthehoodie",
         "duetomorrowdotomorrow"
       ]
+    },
+    {
+      "id": "halloween",
+      "title": "Halloween Pack",
+      "members": [
+        "badandboojee",
+        "boocrew",
+        "boothang",
+        "broomhairdontcare",
+        "creepinitreal",
+        "deadtired",
+        "eatdrinkandbescary",
+        "ghoulfriendmaterial",
+        "hocuspocusenergy",
+        "justherefortheboos",
+        "mummyissues",
+        "nightmarefuel",
+        "restingwitchface",
+        "scarybutcute",
+        "screamqueen",
+        "spookedandstressed",
+        "tooghoulforschool",
+        "trickortreatyoself",
+        "witchbetterhavemycandy",
+        "witchplease"
+      ],
+      "free": [
+        "badandboojee",
+        "boocrew",
+        "creepinitreal",
+        "eatdrinkandbescary",
+        "justherefortheboos"
+      ]
     }
   ]
 }
