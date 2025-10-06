@@ -1,19 +1,18 @@
 {
   "packs": [
     {
-      "id": "demo",
-      "title": "Demo",
-      "locked": false,
-      "stickers": [
-        { "id": "logo", "title": "Logo", "drawable": "ic_launcher_foreground", "locked": false }
-      ]
-    },
-    {
       "id": "halloween",
       "title": "Halloween",
       "locked": false,
-      "members": ["ic_launcher_foreground"],
-      "free": ["ic_launcher_foreground"]
+      "members": ["ct_ghost", "ct_pumpkin", "ct_spiderweb"],
+      "free":    ["ct_ghost", "ct_pumpkin", "ct_spiderweb"]
+    },
+    {
+      "id": "fall",
+      "title": "Fall Vibes",
+      "locked": false,
+      "members": ["ct_leaf1", "ct_coffee", "ct_scarf"],
+      "free":    ["ct_leaf1", "ct_coffee", "ct_scarf"]
     }
   ]
 }
