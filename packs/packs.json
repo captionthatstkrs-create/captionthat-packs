@@ -1,0 +1,53 @@
+{
+  "packs": [
+    {
+      "id": "dating",
+      "title": "Dating",
+      "subtitle": "Flirty, funny, a little messy",
+      "emoji": "💘",
+      "visible": true
+    },
+    {
+      "id": "office",
+      "title": "Office",
+      "subtitle": "Snacks, meetings, drama",
+      "emoji": "💼",
+      "visible": true
+    },
+    {
+      "id": "modern",
+      "title": "Gen Z",
+      "subtitle": "Big Internet Energy",
+      "emoji": "⚡",
+      "visible": true
+    },
+    {
+      "id": "retro",
+      "title": "OG Style",
+      "subtitle": "Classic vibes",
+      "emoji": "💬",
+      "visible": true
+    },
+    {
+      "id": "pets",
+      "title": "Pets",
+      "subtitle": "Fluffy chaos",
+      "emoji": "🐾",
+      "visible": true
+    },
+    {
+      "id": "backtoschool",
+      "title": "Back to School",
+      "subtitle": "Backpacks & besties",
+      "emoji": "🎒",
+      "visible": true
+    },
+    {
+      "id": "halloween",
+      "title": "Halloween",
+      "subtitle": "Spooky, scary, and a little…",
+      "emoji": "🎃",
+      "visible": true
+    }
+  ]
+}
