@@ -1,61 +1,19 @@
 {
-  "id": "demo",
-  "title": "Demo",
-  "locked": false,
-  "stickers": [
-    { "id": "logo", "title": "Logo", "drawable": "ic_launcher_foreground", "locked": false }
-  ]
-},
-{
   "packs": [
     {
-      "id": "dating",
-      "title": "Dating",
-      "subtitle": "Flirty, funny, a little messy",
-      "emoji": "💘",
-      "visible": true
-    },
-    {
-      "id": "office",
-      "title": "Office",
-      "subtitle": "Snacks, meetings, drama",
-      "emoji": "💼",
-      "visible": true
-    },
-    {
-      "id": "modern",
-      "title": "Gen Z",
-      "subtitle": "Big Internet Energy",
-      "emoji": "⚡",
-      "visible": true
-    },
-    {
-      "id": "retro",
-      "title": "OG Style",
-      "subtitle": "Classic vibes",
-      "emoji": "💬",
-      "visible": true
-    },
-    {
-      "id": "pets",
-      "title": "Pets",
-      "subtitle": "Fluffy chaos",
-      "emoji": "🐾",
-      "visible": true
-    },
-    {
-      "id": "backtoschool",
-      "title": "Back to School",
-      "subtitle": "Backpacks & besties",
-      "emoji": "🎒",
-      "visible": true
+      "id": "demo",
+      "title": "Demo",
+      "locked": false,
+      "stickers": [
+        { "id": "logo", "title": "Logo", "drawable": "ic_launcher_foreground", "locked": false }
+      ]
     },
     {
       "id": "halloween",
       "title": "Halloween",
-      "subtitle": "Spooky, scary, and a little…",
-      "emoji": "🎃",
-      "visible": true
+      "locked": false,
+      "members": ["ic_launcher_foreground"],
+      "free": ["ic_launcher_foreground"]
     }
   ]
 }
