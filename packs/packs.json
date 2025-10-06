@@ -1,4 +1,12 @@
 {
+  "id": "demo",
+  "title": "Demo",
+  "locked": false,
+  "stickers": [
+    { "id": "logo", "title": "Logo", "drawable": "ic_launcher_foreground", "locked": false }
+  ]
+},
+{
   "packs": [
     {
       "id": "dating",
