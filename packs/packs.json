@@ -1,18 +1,301 @@
 {
   "packs": [
     {
-      "id": "halloween",
-      "title": "Halloween",
-      "locked": false,
-      "members": ["ct_ghost", "ct_pumpkin", "ct_spiderweb"],
-      "free":    ["ct_ghost", "ct_pumpkin", "ct_spiderweb"]
-    },
-    {
       "id": "fall",
-      "title": "Fall Vibes",
-      "locked": false,
-      "members": ["ct_leaf1", "ct_coffee", "ct_scarf"],
-      "free":    ["ct_leaf1", "ct_coffee", "ct_scarf"]
+      "title": "Fall Pack",
+      "members": [
+        "anotherdayanotherpsl",
+        "bonfirebesties",
+        "boozeandbonfires",
+        "cidermademedoit",
+        "cozybutclueless",
+        "crispairdontcare",
+        "cuddleseasonactivated",
+        "fallingleavesrisingdrama",
+        "flannelismyuniform",
+        "flannelsandfeelings",
+        "gourdoutofmymind",
+        "harvesthomies",
+        "leafmealone",
+        "psladdict",
+        "pumpkinpatchposse",
+        "pumpkinspicestateofmind",
+        "rakeittillyoumakeit",
+        "shotsandsweaters"
+      ],
+      "free": [
+        "anotherdayanotherpsl",
+        "bonfirebesties",
+        "boozeandbonfires",
+        "cidermademedoit",
+        "cozybutclueless"
+      ]
+    },
+
+    {
+      "id": "blessed",
+      "title": "Blessed Pack",
+      "members": [
+        "bibleandchill",
+        "blessingsonblessings",
+        "catchtheseblessings",
+        "chosencrew",
+        "confessionqueen",
+        "confessionthencoffee",
+        "faithvibesonly",
+        "godsquadgoals",
+        "gracegoals",
+        "holyhotmess",
+        "holyspiritactivate",
+        "hopedealer",
+        "jesusvibesonly",
+        "pewcrew",
+        "praythenslay",
+        "sundaysquad",
+        "talkjesustome",
+        "slayininthespirit",
+        "tooblessedtobestressed",
+        "wwjdprobablynotthat"
+      ],
+      "free": [
+        "bibleandchill",
+        "blessingsonblessings",
+        "catchtheseblessings",
+        "chosencrew",
+        "confessionqueen"
+      ]
+    },
+
+    {
+      "id": "bros",
+      "title": "Bros Pack",
+      "members": [
+        "allgasnobrakes",
+        "alphamove",
+        "beerme",
+        "benchpressbros",
+        "bigflexenergy",
+        "certifiedlegend",
+        "fortheboys",
+        "grillandchill",
+        "grillking",
+        "holdmybeer",
+        "kingofchill",
+        "lifteatrepeat",
+        "powermovesonly",
+        "squadup",
+        "zerodaysoff"
+      ],
+      "free": [
+        "allgasnobrakes",
+        "alphamove",
+        "beerme",
+        "benchpressbros",
+        "bigflexenergy"
+      ]
+    },
+
+    {
+      "id": "dating",
+      "title": "Dating Pack",
+      "members": [
+        "catchflightsnotfeelings",
+        "deluluduo",
+        "doyouevenlikeme",
+        "ghosted",
+        "itscuffingseason",
+        "justhereforthedrama",
+        "leftonread",
+        "lovebombed",
+        "outofyourleague",
+        "swiperight",
+        "takenish",
+        "toxicaf",
+        "wifedup",
+        "youup",
+        "walkingredflag"
+      ],
+      "free": [
+        "catchflightsnotfeelings",
+        "deluluduo",
+        "doyouevenlikeme",
+        "ghosted",
+        "itscuffingseason"
+      ]
+    },
+
+    {
+      "id": "hotgirl",
+      "title": "Hot Girl Pack",
+      "members": [
+        "baddiebehavior",
+        "brunchbabes",
+        "chaoscoordinator",
+        "didwejustbecomebesties",
+        "dramaqueens",
+        "girlganggoals",
+        "gossipgirls",
+        "prettyandpetty",
+        "sassybutclassy",
+        "shesaidwhat",
+        "thatsmybestie",
+        "thatssous",
+        "toocutetocare",
+        "toohottohandle",
+        "twinninghard"
+      ],
+      "free": [
+        "baddiebehavior",
+        "brunchbabes",
+        "chaoscoordinator",
+        "didwejustbecomebesties",
+        "dramaqueens"
+      ]
+    },
+
+    {
+      "id": "modern",
+      "title": "Modern Pack",
+      "members": [
+        "bet",
+        "builtdifferent",
+        "deadass",
+        "inmydeluluera",
+        "itsgiving",
+        "lovethatforyou",
+        "lowkeyoverit",
+        "maincharacterenergy",
+        "nocap",
+        "periodt",
+        "screamingcryingthrowingup",
+        "slay",
+        "thatswild",
+        "thisaintit",
+        "thisfeelsillegal"
+      ],
+      "free": [
+        "bet",
+        "builtdifferent",
+        "deadass",
+        "inmydeluluera",
+        "itsgiving"
+      ]
+    },
+
+    {
+      "id": "office",
+      "title": "Office Pack",
+      "members": [
+        "clockedincheckedout",
+        "currentlypretendingtowork",
+        "idontgetpaidenoughforthis",
+        "ineedaraise",
+        "isitfridayyet",
+        "justhereforthepaycheck",
+        "letstouchbasenever",
+        "meetingsaremycardio",
+        "micoffcameraoffbrainoff",
+        "mondaymood",
+        "officebaddie",
+        "officegossipdepartment",
+        "outofofficeenergy",
+        "thiscouldvebeenanemail",
+        "whoscheduledthis"
+      ],
+      "free": [
+        "clockedincheckedout",
+        "currentlypretendingtowork",
+        "idontgetpaidenoughforthis",
+        "ineedaraise",
+        "isitfridayyet"
+      ]
+    },
+
+    {
+      "id": "pets",
+      "title": "Pets Pack",
+      "members": [
+        "cattitudelevelexpert",
+        "certifiedgoodboy",
+        "didyousaywalk",
+        "feedmehuman",
+        "furbabylife",
+        "iateit",
+        "irunthishouse",
+        "napking",
+        "napqueen",
+        "pawsoff",
+        "petmepeasant",
+        "spoiledandproud",
+        "toocutetopunish",
+        "treatdealer",
+        "zoomiesactivated"
+      ],
+      "free": [
+        "cattitudelevelexpert",
+        "certifiedgoodboy",
+        "didyousaywalk",
+        "feedmehuman",
+        "furbabylife"
+      ]
+    },
+
+    {
+      "id": "retro",
+      "title": "Retro Pack",
+      "members": [
+        "cheers",
+        "gotbeer",
+        "hello",
+        "ilovemypet",
+        "ishouldvestayedinbed",
+        "naptime",
+        "nocomment",
+        "ohbaby",
+        "oops",
+        "surprise",
+        "thepartyshere",
+        "toocool",
+        "whyme",
+        "wishyouwerehere",
+        "yikes"
+      ],
+      "free": [
+        "cheers",
+        "gotbeer",
+        "hello",
+        "ilovemypet",
+        "ishouldvestayedinbed"
+      ]
+    },
+
+    {
+      "id": "school",
+      "title": "School Pack",
+      "members": [
+        "alreadyoverit",
+        "canidropoutyet",
+        "coffeecarlinechaos",
+        "droppedtheclasskeptthehoodie",
+        "duetomorrowdotomorrow",
+        "extracreditextratired",
+        "firstdayvibes",
+        "freshoutoffs",
+        "imisssummer",
+        "justhereforthelunch",
+        "procrastinationnation",
+        "raiseyourhandifyourelost",
+        "teacherspetenergy",
+        "testwhattest",
+        "thisclassaintit"
+      ],
+      "free": [
+        "alreadyoverit",
+        "canidropoutyet",
+        "coffeecarlinechaos",
+        "droppedtheclasskeptthehoodie",
+        "duetomorrowdotomorrow"
+      ]
     }
   ]
 }
