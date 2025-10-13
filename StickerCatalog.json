@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "packs": [
     {
       "id": "halloween",
@@ -91,7 +91,7 @@
     "WeekendWarriors",
     "WhoInvitedThisGuy"
   ]
-}
+},
     {
       "id": "dating",
       "title": "Dating",
