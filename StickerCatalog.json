@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "packs": [
     {
       "id": "halloween",
@@ -66,32 +66,32 @@
       ]
     },
     {
-      "id": "party",
-      "title": "Party Mode",
-      "subtitle": "Neon, nostalgia, and nightlife",
-      "emoji": "🪩",
-      "productID": "com.captionthat.CaptionThat.stickers.party.v2",
-      "visible": true,
-      "position": 3,
-      "freeCount": 5,
-      "stickers": [
-        "packs/party/AfterPartyLoading.png",
-        "packs/party/ChugLife.png",
-        "packs/party/CocktailQueen.png",
-        "packs/party/DesignatedDrinker.png",
-        "packs/party/GoodVibesOnly.png",
-        "packs/party/JustOneMoreSong.png",
-        "packs/party/LastCallLegends.png",
-        "packs/party/PartyPatrol.png",
-        "packs/party/PourDecisions.png",
-        "packs/party/StraightOuttaHappyHour.png",
-        "packs/party/TequilaMadeMeDoIt.png",
-        "packs/party/TipsyBusiness.png",
-        "packs/party/VipOnly.png",
-        "packs/party/WeekendWarriors.png",
-        "packs/party/WhoInvitedThisGuy.png"
-      ]
-    },
+  "id": "party",
+  "title": "Party Mode",
+  "subtitle": "Neon, nostalgia, and nightlife",
+  "emoji": "🪩",
+  "productID": "com.captionthat.CaptionThat.stickers.party.v2",
+  "visible": true,
+  "position": 3,
+  "freeCount": 5,
+  "stickers": [
+    "AfterPartyLoading",
+    "ChugLife",
+    "CocktailQueen",
+    "DesignatedDrinker",
+    "GoodVibesOnly",
+    "JustOneMoreSong",
+    "LastCallLegends",
+    "PartyPatrol",
+    "PourDecisions",
+    "StraightOuttaHappyHour",
+    "TequilaMadeMeDoIt",
+    "TipsyBusiness",
+    "VipOnly",
+    "WeekendWarriors",
+    "WhoInvitedThisGuy"
+  ]
+}
     {
       "id": "dating",
       "title": "Dating",
