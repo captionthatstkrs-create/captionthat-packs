@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "packs": [
     {
       "id": "halloween",
@@ -140,7 +140,7 @@
       "id": "pets",
       "title": "Pets",
       "subtitle": "Fluffy chaos",
-      "emoji": "🐾",
+      "emoji": "🐶🐱",
       "productID": "com.captionthat.CaptionThat.stickers.pets.v2",
       "visible": true,
       "position": 50,
