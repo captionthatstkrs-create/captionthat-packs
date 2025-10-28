@@ -1,9 +1,9 @@
 {
-  "version": 12,
+  "version": 13,
   "packs": [
     {
       "id": "oktoberfest",
-      "title": "Oktoberfest Vibes",
+      "title": "Oktoberfest",
       "subtitle": "Beer steins, brats, and Bavarian energy",
       "emoji": "🍻",
       "icon": "OktoberfestIcon",
