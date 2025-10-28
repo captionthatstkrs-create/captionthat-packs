@@ -1,38 +1,43 @@
 {
-  "version": 11,
+  "version": 12,
   "packs": [
     {
-  "id": "oktoberfest",
-  "title": "Oktoberfest Vibes",
-  "subtitle": "Beer steins, brats, and Bavarian energy",
-  "emoji": "🍻",
-  "productID": "com.captionthat.CaptionThat.stickers.oktoberfest.v2",
-  "visible": true,
-  "position": 0,
-  "freeCount": 5,
-  "stickers": [
-    "packs/oktoberfest/BeerPressureMadeMeDoIt.png",
-    "packs/oktoberfest/BratLifeChoseMe.png",
-    "packs/oktoberfest/BratPack.png",
-    "packs/oktoberfest/BratwurstsAndBesties.png",
-    "packs/oktoberfest/BrewCrew.png",
-    "packs/oktoberfest/CheersAndBeers.png",
-    "packs/oktoberfest/ZickeZackeZickeZacke.png",
-    "packs/oktoberfest/HoiHoiHoi.png",
-    "packs/oktoberfest/HopsAndHappiness.png",
-    "packs/oktoberfest/JustHereForTheBeer.png",
-    "packs/oktoberfest/KissMeImGermanish.png",
-    "packs/oktoberfest/LederhosenLegend.png",
-    "packs/oktoberfest/PretzelPowered.png",
-    "packs/oktoberfest/Prost.png",
-    "packs/oktoberfest/SausageSquad.png",
-    "packs/oktoberfest/SipHappens.png",
-    "packs/oktoberfest/SteinAndDandy.png",
-    "packs/oktoberfest/SteinKing.png",
-    "packs/oktoberfest/SteinQueen.png",
-    "packs/oktoberfest/WurstBehavior.png"
-  ]
-},
+      "id": "oktoberfest",
+      "title": "Oktoberfest Vibes",
+      "subtitle": "Beer steins, brats, and Bavarian energy",
+      "emoji": "🍻",
+      "icon": "OktoberfestIcon",
+      "productID": "com.captionthat.CaptionThat.stickers.oktoberfest.v2",
+      "visible": true,
+      "position": 0,
+      "freeCount": 5,
+      "stickers": [
+        "packs/oktoberfest/BeerPressureMadeMeDoIt.png",
+        "packs/oktoberfest/BratLifeChoseMe.png",
+        "packs/oktoberfest/BratPack.png",
+        "packs/oktoberfest/BratwurstsAndBesties.png",
+        "packs/oktoberfest/BrewCrew.png",
+
+        "packs/oktoberfest/ZickeZackeZickeZacke.png",
+        "packs/oktoberfest/HoiHoiHoi.png",
+
+        "packs/oktoberfest/CheersAndBeers.png",
+        "packs/oktoberfest/HopsAndHappiness.png",
+        "packs/oktoberfest/JustHereForTheBeer.png",
+        "packs/oktoberfest/KissMeImGermanish.png",
+        "packs/oktoberfest/LederhosenLegend.png",
+        "packs/oktoberfest/PretzelPowered.png",
+        "packs/oktoberfest/Prost.png",
+        "packs/oktoberfest/SausageSquad.png",
+        "packs/oktoberfest/SipHappens.png",
+        "packs/oktoberfest/SteinAndDandy.png",
+        "packs/oktoberfest/SteinKing.png",
+        "packs/oktoberfest/SteinQueen.png",
+        "packs/oktoberfest/WurstBehavior.png"
+      ]
+    },
+
+    /* keep the rest of your existing packs exactly as they are … */
     {
       "id": "halloween",
       "title": "Halloween",
