@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "packs": [
     {
       "id": "christmas",
@@ -40,7 +40,7 @@
       "emoji": "🍻",
       "productID": "com.captionthat.CaptionThat.stickers.oktoberfest.v2",
       "visible": true,
-      "position": 0,
+      "position": 1,
       "freeCount": 5,
       "stickers": [
         "BeerPressureMadeMeDoIt",
@@ -72,7 +72,7 @@
       "emoji": "🦃",
       "productID": "com.captionthat.CaptionThat.stickers.thanksgiving.v2",
       "visible": true,
-      "position": 0,
+      "position": 2,
       "freeCount": 5,
       "stickers": [
         "AteThatLiterally",
@@ -104,7 +104,7 @@
       "emoji": "🎃",
       "productID": "com.captionthat.CaptionThat.stickers.halloween.v2",
       "visible": true,
-      "position": 1,
+      "position": 3,
       "freeCount": 5,
       "stickers": [
         "BadAndBoojee",
@@ -136,7 +136,7 @@
       "emoji": "🍂",
       "productID": "com.captionthat.CaptionThat.stickers.fall.v2",
       "visible": true,
-      "position": 2,
+      "position": 4,
       "freeCount": 5,
       "stickers": [
         "AnotherDayAnotherPSL",
@@ -168,7 +168,7 @@
       "emoji": "🪩",
       "productID": "com.captionthat.CaptionThat.stickers.party.v2",
       "visible": true,
-      "position": 3,
+      "position": 5,
       "freeCount": 5,
       "stickers": [
         "AfterPartyLoading",
@@ -187,6 +187,17 @@
         "WeekendWarriors",
         "WhoInvitedThisGuy"
       ]
+    },
+    {
+      "id": "valentine",
+      "title": "Valentine",
+      "subtitle": "Valentine Vibes Only",
+      "emoji": "💝",
+      "productID": "com.captionthat.CaptionThat.stickers.valentine.v2",
+      "visible": true,
+      "position": 6,
+      "freeCount": 5,
+      "stickers": []
     },
     {
       "id": "dating",
