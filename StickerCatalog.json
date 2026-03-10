@@ -1,6 +1,70 @@
 {
   "version": 14,
   "packs": [
+      {
+        "id": "easter",
+        "title": "Easter",
+        "subtitle": "Bunnies, Baskets & Blessings",
+        "emoji": "✝️🐣",
+        "productID": "com.captionthat.CaptionThat.stickers.easter.free",
+        "visible": true,
+        "position": -10,
+        "freeCount": 20,
+        "stickers": [
+          "BlessingsAndChocolate",
+          "BunniesEggsAndBlessings",
+          "BunnyBusinessOnly",
+          "ChickMagnet",
+          "ChillinWithMyPeeps",
+          "EggHuntChampion",
+          "EggHuntMode",
+          "EggsEverywhere",
+          "EmptyTombEnergy",
+          "ForgivenAndFabulous",
+          "FoundTheGoldenEgg",
+          "HeIsRisen",
+          "HoppingIntoSpring",
+          "JesusDidThat",
+          "PoweredByPeeps",
+          "RedeemedAndRejoicing",
+          "ResurrectionSeason",
+          "RunningOnJellyBeans",
+          "SpringChick",
+          "SpringtimeBlessings"
+        ]
+      },
+      {
+      "id": "valentine",
+      "title": "Valentine",
+      "subtitle": "Valentine Vibes Only",
+      "emoji": "💝",
+      "productID": "com.captionthat.CaptionThat.stickers.valentine.v2",
+      "visible": true,
+      "position": 0,
+      "freeCount": 5,
+      "stickers": [
+        "CasuallyCrushing",
+        "CupidIsConfused",
+        "FlirtingIsMyHobby",
+        "JustHereForTheChocolate",
+        "XoxoObviously",
+        "ChocolateOverFeelings",
+        "CupidNeedsGps",
+        "CupidTried",
+        "HeartEyesActivated",
+        "KeepingItSweet",
+        "LoveAndCandy",
+        "LoveDayMood",
+        "LoverBoyEnergy",
+        "LoveWasInvolved",
+        "RomancePending",
+        "RomanceWasAttempted",
+        "ValentineActivities",
+        "ValentineStatusTbd",
+        "ValentineStillFine",
+        "ValentineVibesOnly"
+      ]
+    },
     {
       "id": "christmas",
       "title": "Christmas",
@@ -8,7 +72,7 @@
       "emoji": "🎄",
       "productID": "com.captionthat.CaptionThat.stickers.christmas.v2",
       "visible": true,
-      "position": 0,
+      "position": 10,
       "freeCount": 5,
       "stickers": [
         "ASeasonOfBlessings",
@@ -40,7 +104,7 @@
       "emoji": "🍻",
       "productID": "com.captionthat.CaptionThat.stickers.oktoberfest.v2",
       "visible": true,
-      "position": 1,
+      "position": 20,
       "freeCount": 5,
       "stickers": [
         "BeerPressureMadeMeDoIt",
@@ -72,7 +136,7 @@
       "emoji": "🦃",
       "productID": "com.captionthat.CaptionThat.stickers.thanksgiving.v2",
       "visible": true,
-      "position": 2,
+      "position": 30,
       "freeCount": 5,
       "stickers": [
         "AteThatLiterally",
@@ -104,7 +168,7 @@
       "emoji": "🎃",
       "productID": "com.captionthat.CaptionThat.stickers.halloween.v2",
       "visible": true,
-      "position": 3,
+      "position": 40,
       "freeCount": 5,
       "stickers": [
         "BadAndBoojee",
@@ -136,7 +200,7 @@
       "emoji": "🍂",
       "productID": "com.captionthat.CaptionThat.stickers.fall.v2",
       "visible": true,
-      "position": 4,
+      "position": 50,
       "freeCount": 5,
       "stickers": [
         "AnotherDayAnotherPSL",
@@ -168,7 +232,7 @@
       "emoji": "🪩",
       "productID": "com.captionthat.CaptionThat.stickers.party.v2",
       "visible": true,
-      "position": 5,
+      "position": 60,
       "freeCount": 5,
       "stickers": [
         "AfterPartyLoading",
@@ -189,26 +253,31 @@
       ]
     },
     {
-      "id": "valentine",
-      "title": "Valentine",
-      "subtitle": "Valentine Vibes Only",
-      "emoji": "💝",
-      "productID": "com.captionthat.CaptionThat.stickers.valentine.v2",
-      "visible": true,
-      "position": 6,
-      "freeCount": 5,
-      "stickers": []
-    },
-    {
       "id": "dating",
       "title": "Dating",
       "subtitle": "Flirty, funny, a little messy",
       "emoji": "💘",
       "productID": "com.captionthat.CaptionThat.stickers.dating.v2",
       "visible": true,
-      "position": 10,
+      "position": 70,
       "freeCount": 5,
-      "stickers": []
+      "stickers": [
+        "CatchFlightsNotFeelings",
+        "DeluluDuo",
+        "DoYouEvenLikeMe",
+        "Ghosted",
+        "ItsCuffingSeason",
+        "JustHereForTheDrama",
+        "LeftOnRead",
+        "LoveBombed",
+        "OutOfYourLeague",
+        "SwipeRight",
+        "TakenIsh",
+        "ToxicAF",
+        "WalkingRedFlag",
+        "WifedUp",
+        "YouUp"
+      ]
     },
     {
       "id": "office",
@@ -217,9 +286,25 @@
       "emoji": "💼",
       "productID": "com.captionthat.CaptionThat.stickers.office.v2",
       "visible": true,
-      "position": 20,
+      "position": 80,
       "freeCount": 5,
-      "stickers": []
+      "stickers": [
+        "ClockedInCheckedOut",
+        "CurrentlyPretendingToWork",
+        "IDontGetPaidEnoughForThis",
+        "INeedARaise",
+        "IsItFridayYet",
+        "JustHereForThePaycheck",
+        "LetsTouchBaseNever",
+        "MeetingsAreMyCardio",
+        "MicOffCameraOffBrainOff",
+        "MondayMood",
+        "OfficeBaddie",
+        "OfficeGossipDepartment",
+        "OutOfOfficeEnergy",
+        "ThisCouldveBeenAnEmail",
+        "WhoScheduledThis"
+      ]
     },
     {
       "id": "modern",
@@ -228,9 +313,25 @@
       "emoji": "⚡️",
       "productID": "com.captionthat.CaptionThat.stickers.modern.v2",
       "visible": true,
-      "position": 30,
+      "position": 90,
       "freeCount": 5,
-      "stickers": []
+      "stickers": [
+        "Bet",
+        "BuiltDifferent",
+        "Deadass",
+        "InMyDeluluEra",
+        "ItsGiving",
+        "LoveThatForYou",
+        "LowkeyOverIt",
+        "MainCharacterEnergy",
+        "NoCap",
+        "Periodt",
+        "ScreamingCryingThrowingUp",
+        "Slay",
+        "ThatsWild",
+        "ThisAintIt",
+        "ThisFeelsIllegal"
+      ]
     },
     {
       "id": "retro",
@@ -239,9 +340,25 @@
       "emoji": "💬",
       "productID": "com.captionthat.CaptionThat.stickers.retro.v2",
       "visible": true,
-      "position": 40,
+      "position": 100,
       "freeCount": 5,
-      "stickers": []
+      "stickers": [
+        "Cheers",
+        "GotBeer",
+        "Hello",
+        "ILoveMyPet",
+        "IShouldveStayedInBed",
+        "NapTime",
+        "NoComment",
+        "OhBaby",
+        "Oops",
+        "Surprise",
+        "ThePartysHere",
+        "TooCool",
+        "WhyMe",
+        "WishYouWereHere",
+        "Yikes"
+      ]
     },
     {
       "id": "pets",
@@ -250,9 +367,25 @@
       "emoji": "🐶🐱",
       "productID": "com.captionthat.CaptionThat.stickers.pets.v2",
       "visible": true,
-      "position": 50,
+      "position": 110,
       "freeCount": 5,
-      "stickers": []
+      "stickers": [
+        "CattitudeLevelExpert",
+        "CertifiedGoodBoy",
+        "DidYouSayWalk",
+        "FeedMeHuman",
+        "FurBabyLife",
+        "IAteIt",
+        "IRunThisHouse",
+        "NapKing",
+        "NapQueen",
+        "PawsOff",
+        "PetMePeasant",
+        "SpoiledAndProud",
+        "TooCuteToPunish",
+        "TreatDealer",
+        "ZoomiesActivated"
+      ]
     },
     {
       "id": "school",
@@ -261,9 +394,25 @@
       "emoji": "🎒",
       "productID": "com.captionthat.CaptionThat.stickers.back2school.v2",
       "visible": true,
-      "position": 60,
+      "position": 120,
       "freeCount": 5,
-      "stickers": []
+      "stickers": [
+        "AlreadyOverIt",
+        "CanIDropOutYet",
+        "CoffeeCarLineChaos",
+        "DroppedTheClassKeptTheHoodie",
+        "DueTomorrowDoTomorrow",
+        "ExtraCreditExtraTired",
+        "FirstDayVibes",
+        "FreshOutOfFs",
+        "IMissSummer",
+        "JustHereForTheLunch",
+        "ProcrastinationNation",
+        "RaiseYourHandIfYoureLost",
+        "TeachersPetEnergy",
+        "TestWhatTest",
+        "ThisClassAintIt"
+      ]
     },
     {
       "id": "blessed",
@@ -272,9 +421,30 @@
       "emoji": "🙏",
       "productID": "com.captionthat.CaptionThat.stickers.blessed.v2",
       "visible": true,
-      "position": 70,
+      "position": 130,
       "freeCount": 5,
-      "stickers": []
+      "stickers": [
+        "BibleAndChill",
+        "BlessingsOnBlessings",
+        "CatchTheseBlessings",
+        "ChosenCrew",
+        "ConfessionQueen",
+        "ConfessionThenCoffee",
+        "FaithVibesOnly",
+        "GodSquadGoals",
+        "GraceGoals",
+        "HolyHotMess",
+        "HolySpiritActivate",
+        "HopeDealer",
+        "JesusVibesOnly",
+        "PewCrew",
+        "PrayThenSlay",
+        "SlayinInTheSpirit",
+        "SundaySquad",
+        "TalkJesusToMe",
+        "TooBlessedToBeStressed",
+        "WWJDProbablyNotThat"
+      ]
     },
     {
       "id": "hotgirl",
@@ -283,9 +453,25 @@
       "emoji": "💅",
       "productID": "com.captionthat.CaptionThat.stickers.hotgirlchatter.v2",
       "visible": true,
-      "position": 80,
+      "position": 140,
       "freeCount": 5,
-      "stickers": []
+      "stickers": [
+        "BaddieBehavior",
+        "BrunchBabes",
+        "ChaosCoordinator",
+        "DidWeJustBecomeBesties",
+        "DramaQueens",
+        "GirlGangGoals",
+        "GossipGirls",
+        "PrettyAndPetty",
+        "SassyButClassy",
+        "SheSaidWhat",
+        "ThatsMyBestie",
+        "ThatsSoUs",
+        "TooCuteToCare",
+        "TooHotToHandle",
+        "TwinningHard"
+      ]
     },
     {
       "id": "bros",
@@ -294,9 +480,25 @@
       "emoji": "🧢",
       "productID": "com.captionthat.CaptionThat.stickers.bros.v2",
       "visible": true,
-      "position": 90,
+      "position": 150,
       "freeCount": 5,
-      "stickers": []
+      "stickers": [
+        "AllGasNoBrakes",
+        "AlphaMove",
+        "BeerMe",
+        "BenchPressBros",
+        "BigFlexEnergy",
+        "CertifiedLegend",
+        "ForTheBoys",
+        "GrillAndChill",
+        "GrillKing",
+        "HoldMyBeer",
+        "KingOfChill",
+        "LiftEatRepeat",
+        "PowerMovesOnly",
+        "SquadUp",
+        "ZeroDaysOff"
+      ]
     }
   ]
 }
